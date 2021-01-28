@@ -1,2 +1,2 @@
 # morse-code-translator
-A console based python Morse Code translator. Converts from plain text to Morse code and vice versa. 
+A python script that translates Morse Code to English text and vice versa
